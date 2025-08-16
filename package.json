@@ -2,8 +2,10 @@
   "name": "open-module-folder",
   "displayName": "Open Module Folder",
   "description": "This extension is for revealing module folder in node_modules directory by clicking the module name in package.json",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "arjupba",
+  "icon": "images/icon.png",
+  "repository": "git@github.com:arjupba/vscode-open-module-folder.git",
   "engines": {
     "vscode": "^1.103.0"
   },
