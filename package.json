@@ -1,8 +1,8 @@
 {
   "name": "open-module-folder",
   "displayName": "Open Module Folder",
-  "description": "This extension is for revealing module folder in node_modules directory by clicking the module name in package.json",
-  "version": "1.0.2",
+  "description": "Easily reveal and open dependency folders from package.json in VS Code. With this extension, you can click on any dependency (in dependencies, devDependencies, or peerDependencies) and instantly jump to its folder inside node_modules in the Explorer.",
+  "version": "1.0.3",
   "publisher": "arjupba",
   "icon": "images/icon.png",
   "repository": "git@github.com:arjupba/vscode-open-module-folder.git",
